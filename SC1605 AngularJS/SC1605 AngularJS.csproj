@@ -66,7 +66,94 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="apple-touch-icon.png" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
+    <Content Include="bin\SC1605 AngularJS.dll" />
+    <Content Include="bin\SC1605 AngularJS.pdb" />
+    <Content Include="browserconfig.xml" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\main.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="index.html" />
+    <Content Include="js\main.js" />
+    <Content Include="js\vendor\bootstrap.js" />
+    <Content Include="js\vendor\bootstrap.min.js" />
+    <Content Include="js\vendor\jquery-1.11.2.min.js" />
+    <Content Include="js\vendor\modernizr-2.8.3-respond-1.4.2.min.js" />
+    <Content Include="js\vendor\npm.js" />
+    <Content Include="obj\Debug\SC1605 AngularJS.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\SC1605 AngularJS.dll" />
+    <Content Include="obj\Debug\SC1605 AngularJS.pdb" />
     <Content Include="packages.config" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="bin\SC1605 AngularJS.dll.config" />
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="js\vendor\angular\angular-animate.js" />
+    <Content Include="js\vendor\angular\angular-animate.min.js" />
+    <Content Include="js\vendor\angular\angular-aria.js" />
+    <Content Include="js\vendor\angular\angular-aria.min.js" />
+    <Content Include="js\vendor\angular\angular-cookies.js" />
+    <Content Include="js\vendor\angular\angular-cookies.min.js" />
+    <Content Include="js\vendor\angular\angular-csp.css" />
+    <Content Include="js\vendor\angular\angular-loader.js" />
+    <Content Include="js\vendor\angular\angular-loader.min.js" />
+    <Content Include="js\vendor\angular\angular-message-format.js" />
+    <Content Include="js\vendor\angular\angular-message-format.min.js" />
+    <Content Include="js\vendor\angular\angular-messages.js" />
+    <Content Include="js\vendor\angular\angular-messages.min.js" />
+    <Content Include="js\vendor\angular\angular-mocks.js" />
+    <Content Include="js\vendor\angular\angular-parse-ext.js" />
+    <Content Include="js\vendor\angular\angular-parse-ext.min.js" />
+    <Content Include="js\vendor\angular\angular-resource.js" />
+    <Content Include="js\vendor\angular\angular-resource.min.js" />
+    <Content Include="js\vendor\angular\angular-route.js" />
+    <Content Include="js\vendor\angular\angular-route.min.js" />
+    <Content Include="js\vendor\angular\angular-sanitize.js" />
+    <Content Include="js\vendor\angular\angular-sanitize.min.js" />
+    <Content Include="js\vendor\angular\angular-scenario.js" />
+    <Content Include="js\vendor\angular\angular-touch.js" />
+    <Content Include="js\vendor\angular\angular-touch.min.js" />
+    <Content Include="js\vendor\angular\angular.js" />
+    <Content Include="js\vendor\angular\angular.min.js" />
+    <Content Include="js\vendor\angular\version.json" />
+    <Content Include="js\vendor\angular\errors.json" />
+    <Content Include="js\vendor\angular\angular.min.js.map" />
+    <Content Include="js\vendor\angular\angular-touch.min.js.map" />
+    <Content Include="js\vendor\angular\angular-sanitize.min.js.map" />
+    <Content Include="js\vendor\angular\angular-route.min.js.map" />
+    <Content Include="js\vendor\angular\angular-resource.min.js.map" />
+    <Content Include="js\vendor\angular\angular-parse-ext.min.js.map" />
+    <Content Include="js\vendor\angular\angular-messages.min.js.map" />
+    <Content Include="js\vendor\angular\angular-message-format.min.js.map" />
+    <Content Include="js\vendor\angular\angular-loader.min.js.map" />
+    <Content Include="js\vendor\angular\angular-cookies.min.js.map" />
+    <Content Include="js\vendor\angular\angular-aria.min.js.map" />
+    <Content Include="js\vendor\angular\angular-animate.min.js.map" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,10 +162,28 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="tile-wide.png" />
+    <Content Include="tile.png" />
+    <Content Include="uppgift5.html" />
+    <Content Include="uppgift4.html" />
+    <Content Include="uppgift3.html" />
+    <Content Include="uppgift2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="img\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
